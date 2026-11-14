@@ -1,0 +1,12 @@
+{
+  "instance": "X-n401-k29",
+  "customers": 400,
+  "seed": 20,
+  "time_limit_s": 95,
+  "solver_time_s": 95.0021,
+  "wall_time_s": 95.964,
+  "cost": 66235,
+  "routes": 29,
+  "bks_2020": 66163,
+  "gap_pct": 0.1088221513534755
+}

@@ -1,3 +1,4 @@
 *.sh text eol=lf
 *.py text eol=lf
 HGS-CVRP-1.0.0/** -text
+results/** -text

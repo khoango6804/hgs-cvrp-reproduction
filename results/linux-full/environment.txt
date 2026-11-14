@@ -1,0 +1,38 @@
+2026-11-13T11:16:21+08:00
+Linux 6.18.58.1-microsoft-standard-WSL2
+PRETTY_NAME="Ubuntu 26.04.1 LTS"
+NAME="Ubuntu"
+VERSION_ID="26.04"
+VERSION="26.04.1 LTS (Resolute Raccoon)"
+VERSION_CODENAME=resolute
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+UBUNTU_CODENAME=resolute
+LOGO=ubuntu-logo
+g++ (Ubuntu 15.2.0-16ubuntu1) 15.2.0
+Copyright (C) 2025 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+glibc 2.43
+Python 3.14.4
+CPU CORE SOCKET
+  0    0      0
+  1    0      0
+  2    1      0
+  3    1      0
+  4    2      0
+  5    2      0
+  6    3      0
+  7    3      0
+  8    4      0
+  9    4      0
+ 10    5      0
+ 11    5      0
+Affinity: 0,2,4,6,8,10
+Workers: 6
+ad7ea7246e2319ec2aa3ad0bae96f7a8db15f322b3cc7ea55408bc204484b0d9  results/linux-full/genvrp

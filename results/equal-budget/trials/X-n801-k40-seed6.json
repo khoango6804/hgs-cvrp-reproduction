@@ -1,0 +1,12 @@
+{
+  "instance": "X-n801-k40",
+  "customers": 800,
+  "seed": 6,
+  "time_limit_s": 1919,
+  "solver_time_s": 1919.01,
+  "wall_time_s": 1922.241,
+  "cost": 73411,
+  "routes": 40,
+  "bks_2020": 73305,
+  "gap_pct": 0.14460132323852398
+}

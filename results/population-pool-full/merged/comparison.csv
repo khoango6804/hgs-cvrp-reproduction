@@ -1,0 +1,3 @@
+instance,bks_2020,cost_1x,latest_cost,best_cost,gap_1x_pct,latest_gap_pct,best_gap_pct,delta_vs_1x_pp,winning_source,final_pool_optimal,population_pool_optimal,merge_cpu_s,hgs_cpu_s_across_budgets
+X-n627-k43,62164,62266,62266,62266,0.164082105398623,0.164082105398623,0.164082105398623,0.0,population-pool-full/X-n627-k43-final-2stages.sol,True,True,2.847083,15000.1
+X-n1001-k43,72359,72662,72662,72662,0.41874542213131744,0.41874542213131744,0.41874542213131744,0.0,population-pool-full/X-n1001-k43-final-2stages.sol,True,True,2.267528,23970.27

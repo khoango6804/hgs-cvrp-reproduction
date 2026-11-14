@@ -1,0 +1,3 @@
+instance,bks_2020,seeds,late_stages,samples,samples_above_seed_final,hgs_best_cost,final_sp_cost,population_sp_cost,final_sp_gap_pct,population_sp_gap_pct,delta_gap_pp,cpu_budget_s,hgs_cpu_s,final_sp_cpu_s,population_sp_cpu_s,sp_wall_cap_s,milp_cap_s,final_pool_routes,population_pool_routes,final_pool_optimal,population_pool_optimal,population_timed_out
+X-n627-k43,62164,5,5,75,69,62696,62641,62622,0.767325139952384,0.7367608262016602,-0.030564313750723892,755,740.032,0.289996,3.844574,10,5,211,1449,True,True,False
+X-n1001-k43,72359,5,5,75,65,73952,73952,73952,2.2015229618983128,2.2015229618983128,0.0,1200,1185.18,0.280218,9.782327,10,5,214,,True,False,True

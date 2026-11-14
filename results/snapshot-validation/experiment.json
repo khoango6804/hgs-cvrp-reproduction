@@ -1,0 +1,34 @@
+{
+  "system": "Linux",
+  "machine": "x86_64",
+  "solver_sha256": "f9abd4eaaff74c8340948a96e0bfa9cc32511cd44ebba9abbf4d26a8c6a8a767",
+  "reference_sha256": "125f382593a8f82cc6d6fecaa45213c9f3169b94f80aff014b79320639a6a70b",
+  "instances": {
+    "X-n101-k25": "24960bd4d3a71246ef6efe76c9b667faee4d02817abf3dad6d87acbbdb8bfbd0",
+    "X-n157-k13": "d0bcb54706f56a75ef0b9afaaa7110c476997956c9af18b846f82218afb34b17",
+    "X-n251-k28": "3235344a88e451637eaeaf4787dc57d2b55e41c35e8b7d0ca0c1432ab9689f88",
+    "X-n401-k29": "8e62b299c5a7981967439d575a82642d3d3d84a14389812447da927ddbdc2f17",
+    "X-n502-k39": "56e6cef811705a2144c4a90c67d82a2b7dca91eafec1c2be9c0591c9a3b66ef5",
+    "X-n627-k43": "8bbafe3721aaa65e2b5ced6b281743cd7290842df23c3816c2aba61af4f2bc2c",
+    "X-n801-k40": "ba8b43beb5aa2b24840c475449690d0d4437fbcceb68fbd5b6f96826fdd61684",
+    "X-n1001-k43": "d2d86aca0eec8f40c52473063269302dee3c983343a6292a28ed71a6a4faf776"
+  },
+  "seeds": [
+    16,
+    17,
+    18,
+    19,
+    20
+  ],
+  "limits": {
+    "X-n101-k25": 23,
+    "X-n157-k13": 37,
+    "X-n251-k28": 59,
+    "X-n401-k29": 95,
+    "X-n502-k39": 120,
+    "X-n627-k43": 150,
+    "X-n801-k40": 191,
+    "X-n1001-k43": 239
+  },
+  "iterations": 20000
+}

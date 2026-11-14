@@ -1,0 +1,12 @@
+{
+  "instance": "X-n157-k13",
+  "customers": 156,
+  "seed": 8,
+  "time_limit_s": 374,
+  "solver_time_s": 374.002,
+  "wall_time_s": 374.704,
+  "cost": 16876,
+  "routes": 13,
+  "bks_2020": 16876,
+  "gap_pct": 0.0
+}

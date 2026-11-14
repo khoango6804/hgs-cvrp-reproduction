@@ -1,0 +1,16 @@
+{
+  "system": "Linux",
+  "machine": "x86_64",
+  "solver_sha256": "ad7ea7246e2319ec2aa3ad0bae96f7a8db15f322b3cc7ea55408bc204484b0d9",
+  "reference_sha256": "125f382593a8f82cc6d6fecaa45213c9f3169b94f80aff014b79320639a6a70b",
+  "instances": {
+    "X-n101-k25": "24960bd4d3a71246ef6efe76c9b667faee4d02817abf3dad6d87acbbdb8bfbd0"
+  },
+  "seeds": [
+    1
+  ],
+  "limits": {
+    "X-n101-k25": 1
+  },
+  "iterations": 20000
+}

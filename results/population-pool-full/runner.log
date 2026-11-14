@@ -1,0 +1,25 @@
+1/20 X-n1001-k43 seed=2 cost=72917 gap=0.771%
+2/20 X-n1001-k43 seed=5 cost=72822 gap=0.640%
+3/20 X-n1001-k43 seed=1 cost=72705 gap=0.478%
+4/20 X-n1001-k43 seed=6 cost=72762 gap=0.557%
+5/20 X-n1001-k43 seed=3 cost=72788 gap=0.593%
+6/20 X-n1001-k43 seed=4 cost=72962 gap=0.833%
+7/20 X-n627-k43 seed=2 cost=62484 gap=0.515%
+8/20 X-n627-k43 seed=1 cost=62342 gap=0.286%
+9/20 X-n1001-k43 seed=7 cost=72853 gap=0.683%
+10/20 X-n1001-k43 seed=8 cost=72830 gap=0.651%
+11/20 X-n1001-k43 seed=9 cost=72662 gap=0.419%
+12/20 X-n1001-k43 seed=10 cost=72944 gap=0.808%
+13/20 X-n627-k43 seed=3 cost=62270 gap=0.171%
+14/20 X-n627-k43 seed=4 cost=62395 gap=0.372%
+15/20 X-n627-k43 seed=5 cost=62417 gap=0.407%
+16/20 X-n627-k43 seed=7 cost=62428 gap=0.425%
+17/20 X-n627-k43 seed=6 cost=62356 gap=0.309%
+18/20 X-n627-k43 seed=8 cost=62332 gap=0.270%
+19/20 X-n627-k43 seed=9 cost=62392 gap=0.367%
+20/20 X-n627-k43 seed=10 cost=62382 gap=0.351%
+{'instance': 'X-n627-k43', 'bks_2020': 62164, 'seeds': 10, 'late_stages': 2, 'samples': 60, 'samples_above_seed_final': 39, 'hgs_best_cost': 62270, 'final_sp_cost': 62266, 'population_sp_cost': 62266, 'final_sp_gap_pct': 0.164082105398623, 'population_sp_gap_pct': 0.164082105398623, 'delta_gap_pp': 0.0, 'cpu_budget_s': 15030, 'hgs_cpu_s': 15000.1, 'final_sp_cpu_s': 0.354386, 'population_sp_cpu_s': 1.169805, 'sp_wall_cap_s': 10, 'milp_cap_s': 5, 'final_pool_routes': 364, 'population_pool_routes': 1133, 'final_pool_optimal': True, 'population_pool_optimal': True, 'population_timed_out': False}
+{'instance': 'X-n1001-k43', 'bks_2020': 72359, 'seeds': 10, 'late_stages': 2, 'samples': 60, 'samples_above_seed_final': 49, 'hgs_best_cost': 72662, 'final_sp_cost': 72662, 'population_sp_cost': 72662, 'final_sp_gap_pct': 0.41874542213131744, 'population_sp_gap_pct': 0.41874542213131744, 'delta_gap_pp': 0.0, 'cpu_budget_s': 24000, 'hgs_cpu_s': 23970.27, 'final_sp_cpu_s': 0.354208, 'population_sp_cpu_s': 0.895382, 'sp_wall_cap_s': 10, 'milp_cap_s': 5, 'final_pool_routes': 416, 'population_pool_routes': 804, 'final_pool_optimal': True, 'population_pool_optimal': True, 'population_timed_out': False}
+final_sp_gap_pct 0.2914137637649702
+population_sp_gap_pct 0.2914137637649702
+delta_gap_pp 0.0

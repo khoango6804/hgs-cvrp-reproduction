@@ -1,0 +1,2 @@
+instance,customers,seed,time_limit_s,solver_time_s,wall_time_s,cost,routes,bks_2020,gap_pct
+X-n101-k25,100,1,1,1.0012,1.071,27591,26,27591,0.0

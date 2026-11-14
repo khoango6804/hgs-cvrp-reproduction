@@ -1,8 +1,4 @@
-/results/
-/genvrp
-/genvrp.exe
-/Meta present (1).docx
-/Paper presentation requirement.pdf
+/hgs-cvrp-reproduction-full.zip
 /HGS-CVRP-1.0.0/Program/genvrp
 *.o
 *.py[cod]

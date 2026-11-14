@@ -1,0 +1,21 @@
+2026-11-13T23:48:44+08:00
+Linux 6.18.58.1-microsoft-standard-WSL2
+PRETTY_NAME="Ubuntu 26.04.1 LTS"
+NAME="Ubuntu"
+VERSION_ID="26.04"
+VERSION="26.04.1 LTS (Resolute Raccoon)"
+VERSION_CODENAME=resolute
+ID=ubuntu
+ID_LIKE=debian
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+UBUNTU_CODENAME=resolute
+LOGO=ubuntu-logo
+g++ (Ubuntu 15.2.0-16ubuntu1) 15.2.0
+glibc 2.43
+Affinity: 0,2,4,6,8,10
+Workers: 6
+8f7b0425b01dbfb9b267c4b60683bbcb89cf32fee3d6358b0c59111f4fe5814d  results/snapshot-full/genvrp
+f9abd4eaaff74c8340948a96e0bfa9cc32511cd44ebba9abbf4d26a8c6a8a767  results/snapshot-full/genvrp-with-snapshots

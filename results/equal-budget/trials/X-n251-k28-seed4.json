@@ -1,0 +1,12 @@
+{
+  "instance": "X-n251-k28",
+  "customers": 250,
+  "seed": 4,
+  "time_limit_s": 599,
+  "solver_time_s": 599.003,
+  "wall_time_s": 599.831,
+  "cost": 38684,
+  "routes": 28,
+  "bks_2020": 38684,
+  "gap_pct": 0.0
+}

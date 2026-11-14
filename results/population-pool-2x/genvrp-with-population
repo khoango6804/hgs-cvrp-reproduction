@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+set -euo pipefail
+directory="$2.snapshots"
+mkdir -p "$directory"
+export HGS_SAMPLE_PREFIX="$directory/"
+exec "$(dirname -- "$0")/genvrp" "$@"

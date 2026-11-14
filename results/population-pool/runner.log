@@ -1,0 +1,21 @@
+1/10 X-n627-k43 seed=21 cost=62772 gap=0.978%
+2/10 X-n1001-k43 seed=25 cost=73952 gap=2.202%
+3/10 X-n1001-k43 seed=21 cost=74043 gap=2.327%
+4/10 X-n1001-k43 seed=22 cost=74237 gap=2.595%
+5/10 X-n1001-k43 seed=23 cost=74260 gap=2.627%
+6/10 X-n1001-k43 seed=24 cost=74070 gap=2.365%
+7/10 X-n627-k43 seed=22 cost=62789 gap=1.005%
+8/10 X-n627-k43 seed=23 cost=62741 gap=0.928%
+9/10 X-n627-k43 seed=24 cost=62807 gap=1.034%
+10/10 X-n627-k43 seed=25 cost=62696 gap=0.856%
+{'instance': 'X-n627-k43', 'bks_2020': 62164, 'seeds': 5, 'samples': 75, 'samples_above_seed_final': 69, 'hgs_best_cost': 62696, 'final_sp_cost': 62641, 'population_sp_cost': 62622, 'final_sp_gap_pct': 0.767325139952384, 'population_sp_gap_pct': 0.7367608262016602, 'delta_gap_pp': -0.030564313750723892, 'cpu_budget_s': 755, 'hgs_cpu_s': 740.032, 'final_sp_cpu_s': 0.286939, 'population_sp_cpu_s': 3.687304, 'sp_wall_cap_s': 10, 'milp_cap_s': 5, 'final_pool_routes': 211, 'population_pool_routes': 1449, 'final_pool_optimal': True, 'population_pool_optimal': True}
+Traceback (most recent call last):
+  File "/mnt/d/NTUST/Metaheuristic/compare_population_pool.py", line 90, in <module>
+    main()
+    ~~~~^^
+  File "/mnt/d/NTUST/Metaheuristic/compare_population_pool.py", line 60, in main
+    require(result is not None, f"{name} {label} SP exceeded shared wall-time cap")
+    ~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/mnt/d/NTUST/Metaheuristic/compare_equal_budget.py", line 23, in require
+    raise ValueError(message)
+ValueError: X-n1001-k43 population SP exceeded shared wall-time cap

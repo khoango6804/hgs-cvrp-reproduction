@@ -1,0 +1,27 @@
+{
+  "system": "Linux",
+  "machine": "x86_64",
+  "solver_sha256": "10e18525fdd872fd7bb02e752c501beecae1d56f5d039d072cf58cf49b327aaf",
+  "reference_sha256": "125f382593a8f82cc6d6fecaa45213c9f3169b94f80aff014b79320639a6a70b",
+  "instances": {
+    "X-n627-k43": "8bbafe3721aaa65e2b5ced6b281743cd7290842df23c3816c2aba61af4f2bc2c",
+    "X-n1001-k43": "d2d86aca0eec8f40c52473063269302dee3c983343a6292a28ed71a6a4faf776"
+  },
+  "seeds": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10
+  ],
+  "limits": {
+    "X-n627-k43": 1500,
+    "X-n1001-k43": 2397
+  },
+  "iterations": 20000
+}

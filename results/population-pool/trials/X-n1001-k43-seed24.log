@@ -1,0 +1,33 @@
+----- READING DATA SET: /mnt/d/NTUST/Metaheuristic/HGS-CVRP-1.0.0/Instances/CVRP/X-n1001-k43.vrp
+----- FLEET SIZE WAS NOT SPECIFIED: DEFAULT INITIALIZATION TO 59 VEHICLES
+----- INSTANCE LOADED WITH 1000 CLIENTS AND 59 VEHICLES
+----- BUILDING INITIAL POPULATION
+----- STARTING GENETIC ALGORITHM
+It      0      1 | T(s) 10.96 | Feas 60 76587.00 77132.88 | NO-INFEASIBLE | Div 0.61 -1.00 | Feas 1.00 1.00 | Pen 115.68 0.85
+It    500     43 | T(s) 33.92 | Feas 58 75353.00 75843.24 | Inf 18 75902.33 76723.25 | Div 0.52 0.43 | Feas 0.92 1.00 | Pen 51.33 0.38
+It   1000     96 | T(s) 54.42 | Feas 35 75141.00 75452.04 | Inf 55 74754.65 75345.04 | Div 0.53 0.51 | Feas 0.48 1.00 | Pen 22.78 0.17
+It   1500     30 | T(s) 75.18 | Feas 45 74675.00 75193.24 | Inf 55 74249.04 74780.68 | Div 0.51 0.49 | Feas 0.19 1.00 | Pen 16.46 0.10
+It   2000     18 | T(s) 97.21 | Feas 31 74611.00 75087.20 | Inf 57 74267.14 74621.14 | Div 0.53 0.49 | Feas 0.16 1.00 | Pen 16.78 0.10
+----- WRITING SOLUTION WITH VALUE 74451 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed24.sol.snapshots/0-0.sol
+----- WRITING SOLUTION WITH VALUE 74457 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed24.sol.snapshots/0-1.sol
+----- WRITING SOLUTION WITH VALUE 74598 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed24.sol.snapshots/0-4.sol
+It   2500     73 | T(s) 118.53 | Feas 31 74451.00 74899.68 | Inf 46 74110.76 74455.74 | Div 0.52 0.47 | Feas 0.18 1.00 | Pen 17.12 0.10
+It   3000    177 | T(s) 140.42 | Feas 36 74220.00 74672.04 | Inf 41 74127.51 74455.15 | Div 0.51 0.49 | Feas 0.25 1.00 | Pen 20.54 0.10
+It   3500    415 | T(s) 160.33 | Feas 36 74162.00 74570.12 | Inf 61 74064.67 74251.94 | Div 0.50 0.44 | Feas 0.29 1.00 | Pen 17.81 0.10
+----- WRITING SOLUTION WITH VALUE 74070 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed24.sol.snapshots/1-0.sol
+----- WRITING SOLUTION WITH VALUE 74162 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed24.sol.snapshots/1-1.sol
+----- WRITING SOLUTION WITH VALUE 74231 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed24.sol.snapshots/1-4.sol
+It   4000    423 | T(s) 180.75 | Feas 52 74070.00 74433.64 | Inf 58 74091.37 74267.67 | Div 0.47 0.44 | Feas 0.14 1.00 | Pen 21.37 0.10
+It   4500    923 | T(s) 200.93 | Feas 52 74070.00 74371.40 | Inf 33 74032.84 74323.03 | Div 0.46 0.50 | Feas 0.24 1.00 | Pen 18.53 0.10
+----- WRITING SOLUTION WITH VALUE 74070 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed24.sol.snapshots/2-0.sol
+----- WRITING SOLUTION WITH VALUE 74094 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed24.sol.snapshots/2-1.sol
+----- WRITING SOLUTION WITH VALUE 74162 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed24.sol.snapshots/2-4.sol
+It   5000   1423 | T(s) 221.17 | Feas 45 74070.00 74299.48 | Inf 25 73936.48 74497.75 | Div 0.46 0.51 | Feas 0.27 1.00 | Pen 19.28 0.10
+----- WRITING SOLUTION WITH VALUE 74070 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed24.sol.snapshots/3-0.sol
+----- WRITING SOLUTION WITH VALUE 74094 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed24.sol.snapshots/3-1.sol
+----- WRITING SOLUTION WITH VALUE 74138 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed24.sol.snapshots/3-4.sol
+----- WRITING SOLUTION WITH VALUE 74070 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed24.sol.snapshots/4-0.sol
+----- WRITING SOLUTION WITH VALUE 74094 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed24.sol.snapshots/4-1.sol
+----- WRITING SOLUTION WITH VALUE 74138 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed24.sol.snapshots/4-4.sol
+----- GENETIC ALGORITHM FINISHED, TIME SPENT: 237.009
+----- WRITING SOLUTION WITH VALUE 74070 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed24.sol

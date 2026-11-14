@@ -1,0 +1,12 @@
+{
+  "instance": "X-n502-k39",
+  "customers": 501,
+  "seed": 10,
+  "time_limit_s": 1202,
+  "solver_time_s": 1202.0,
+  "wall_time_s": 1204.49,
+  "cost": 69261,
+  "routes": 39,
+  "bks_2020": 69226,
+  "gap_pct": 0.05055903851154191
+}

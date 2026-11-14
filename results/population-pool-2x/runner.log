@@ -1,0 +1,26 @@
+chmod: changing permissions of 'results/population-pool-2x/genvrp-with-population': Operation not permitted
+1/20 X-n1001-k43 seed=4 cost=72705 gap=0.478%
+2/20 X-n1001-k43 seed=6 cost=72638 gap=0.386%
+3/20 X-n1001-k43 seed=2 cost=72802 gap=0.612%
+4/20 X-n1001-k43 seed=1 cost=72655 gap=0.409%
+5/20 X-n1001-k43 seed=5 cost=72667 gap=0.426%
+6/20 X-n1001-k43 seed=3 cost=72639 gap=0.387%
+7/20 X-n627-k43 seed=2 cost=62362 gap=0.319%
+8/20 X-n627-k43 seed=1 cost=62342 gap=0.286%
+9/20 X-n1001-k43 seed=10 cost=72870 gap=0.706%
+10/20 X-n1001-k43 seed=7 cost=72679 gap=0.442%
+11/20 X-n1001-k43 seed=9 cost=72541 gap=0.252%
+12/20 X-n1001-k43 seed=8 cost=72813 gap=0.627%
+13/20 X-n627-k43 seed=4 cost=62352 gap=0.302%
+14/20 X-n627-k43 seed=3 cost=62270 gap=0.171%
+15/20 X-n627-k43 seed=5 cost=62280 gap=0.187%
+16/20 X-n627-k43 seed=6 cost=62355 gap=0.307%
+17/20 X-n627-k43 seed=7 cost=62314 gap=0.241%
+18/20 X-n627-k43 seed=8 cost=62332 gap=0.270%
+19/20 X-n627-k43 seed=9 cost=62386 gap=0.357%
+20/20 X-n627-k43 seed=10 cost=62356 gap=0.309%
+{'instance': 'X-n627-k43', 'bks_2020': 62164, 'seeds': 10, 'late_stages': 2, 'samples': 60, 'samples_above_seed_final': 50, 'hgs_best_cost': 62270, 'final_sp_cost': 62265, 'population_sp_cost': 62265, 'final_sp_gap_pct': 0.16247345730647964, 'population_sp_gap_pct': 0.16247345730647964, 'delta_gap_pp': 0.0, 'cpu_budget_s': 30050, 'hgs_cpu_s': 30020.93, 'final_sp_cpu_s': 0.322073, 'population_sp_cpu_s': 1.351131, 'sp_wall_cap_s': 10, 'milp_cap_s': 5, 'final_pool_routes': 342, 'population_pool_routes': 1147, 'final_pool_optimal': True, 'population_pool_optimal': True, 'population_timed_out': False}
+{'instance': 'X-n1001-k43', 'bks_2020': 72359, 'seeds': 10, 'late_stages': 2, 'samples': 60, 'samples_above_seed_final': 54, 'hgs_best_cost': 72541, 'final_sp_cost': 72541, 'population_sp_cost': 72541, 'final_sp_gap_pct': 0.251523652897359, 'population_sp_gap_pct': 0.251523652897359, 'delta_gap_pp': 0.0, 'cpu_budget_s': 48000, 'hgs_cpu_s': 47970.17, 'final_sp_cpu_s': 0.327499, 'population_sp_cpu_s': 9.855631, 'sp_wall_cap_s': 10, 'milp_cap_s': 5, 'final_pool_routes': 405, 'population_pool_routes': None, 'final_pool_optimal': True, 'population_pool_optimal': False, 'population_timed_out': True}
+final_sp_gap_pct 0.20699855510191933
+population_sp_gap_pct 0.20699855510191933
+delta_gap_pp 0.0

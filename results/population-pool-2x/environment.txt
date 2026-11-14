@@ -1,0 +1,4 @@
+Linux 6.18.58.1-microsoft-standard-WSL2
+g++ (Ubuntu 15.2.0-16ubuntu1) 15.2.0
+60846a6bbbc691f6b9582b8eb6df987abacfe5b3abd4bbbee0e49014a434fe79  results/population-pool-2x/genvrp
+10e18525fdd872fd7bb02e752c501beecae1d56f5d039d072cf58cf49b327aaf  results/population-pool-2x/genvrp-with-population

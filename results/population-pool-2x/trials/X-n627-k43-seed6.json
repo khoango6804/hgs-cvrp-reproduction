@@ -1,0 +1,12 @@
+{
+  "instance": "X-n627-k43",
+  "customers": 626,
+  "seed": 6,
+  "time_limit_s": 3002,
+  "solver_time_s": 3002.02,
+  "wall_time_s": 3006.478,
+  "cost": 62355,
+  "routes": 43,
+  "bks_2020": 62164,
+  "gap_pct": 0.30725178559938227
+}

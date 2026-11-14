@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+set -eu
+directory="$2.snapshots"
+mkdir -p "$directory"
+export HGS_SNAPSHOT_PREFIX="$directory/"
+exec "$(dirname -- "$0")/genvrp" "$@"

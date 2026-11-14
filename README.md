@@ -32,6 +32,14 @@ python3 merge_population_budgets.py
 
 `route_pool.py` implements route recombination. `benchmark_postprocess.py` and `exact_route_sp.py` contain additional comparisons. `REPORT.md` records the initial pilot. The upstream ZIP is included because the audit scripts compare the checked-in solver sources byte for byte with that archive.
 
+## Recorded results
+
+- [`results/linux-full/REPORT.md`](results/linux-full/REPORT.md) compares the eight-instance reproduction with Vidal's published results.
+- [`results/equal-budget/SLIDE_TABLE.md`](results/equal-budget/SLIDE_TABLE.md) and [`results/snapshot-full/SLIDE_TABLE.md`](results/snapshot-full/SLIDE_TABLE.md) compare Set Partitioning variants at the paper's CPU budget.
+- [`results/population-pool-2x/merged/comparison.csv`](results/population-pool-2x/merged/comparison.csv) summarizes the 1×, 2×, and combined results. The verified best solutions are in the same folder.
+
+The recorded results include per-seed solutions, intermediate solutions, logs, timing, and reports. Use a fresh output directory for new experiments if you want to keep those records. Build a local solver for your environment before starting a new benchmark.
+
 ## References
 
 - [Vidal (2022), Hybrid Genetic Search for the CVRP](https://doi.org/10.1016/j.cor.2021.105643)

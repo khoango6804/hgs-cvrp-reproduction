@@ -1,0 +1,7 @@
+2026-11-13T18:11:40+08:00
+Linux 6.18.58.1-microsoft-standard-WSL2
+glibc 2.43
+Python 3.14.4
+Affinity: 0,2,4,6,8,10
+Workers: 6
+ad7ea7246e2319ec2aa3ad0bae96f7a8db15f322b3cc7ea55408bc204484b0d9  results/linux-full/genvrp

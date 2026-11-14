@@ -1,0 +1,2 @@
+instance,customers,seeds,time_limit_s,bks_2020,best_cost,mean_cost,worst_cost,mean_gap_pct,best_gap_pct,stdev_gap_pct,bks_matches,paper_hgs_mean_cost,paper_hgs_mean_gap_pct,delta_mean_gap_pp
+X-n101-k25,100,1,1,27591,27591,27591,27591,0.0,0.0,0,1,27591.0,0.0,0.0

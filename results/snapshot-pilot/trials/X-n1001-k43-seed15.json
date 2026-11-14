@@ -1,0 +1,12 @@
+{
+  "instance": "X-n1001-k43",
+  "customers": 1000,
+  "seed": 15,
+  "time_limit_s": 71,
+  "solver_time_s": 71.0124,
+  "wall_time_s": 71.496,
+  "cost": 74618,
+  "routes": 43,
+  "bks_2020": 72359,
+  "gap_pct": 3.1219336917315053
+}

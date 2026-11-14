@@ -1,0 +1,60 @@
+----- READING DATA SET: /mnt/d/NTUST/Metaheuristic/HGS-CVRP-1.0.0/Instances/CVRP/X-n251-k28.vrp
+----- FLEET SIZE WAS NOT SPECIFIED: DEFAULT INITIALIZATION TO 39 VEHICLES
+----- INSTANCE LOADED WITH 250 CLIENTS AND 39 VEHICLES
+----- BUILDING INITIAL POPULATION
+----- WRITING SOLUTION WITH VALUE 40708 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/13280.sol
+----- WRITING SOLUTION WITH VALUE 40225 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/18776.sol
+----- WRITING SOLUTION WITH VALUE 40199 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/23212.sol
+----- WRITING SOLUTION WITH VALUE 40036 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/30373.sol
+----- WRITING SOLUTION WITH VALUE 39832 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/49109.sol
+----- WRITING SOLUTION WITH VALUE 39775 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/180325.sol
+----- WRITING SOLUTION WITH VALUE 39768 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/187525.sol
+----- WRITING SOLUTION WITH VALUE 39725 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/216543.sol
+----- STARTING GENETIC ALGORITHM
+It      0      2 | T(s) 0.37 | Feas 59 39725.00 39937.28 | Inf 3 40166.35 40217.46 | Div 0.60 0.65 | Feas 0.97 1.00 | Pen 106.67 0.85
+----- WRITING SOLUTION WITH VALUE 39571 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/383474.sol
+----- WRITING SOLUTION WITH VALUE 39551 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/488746.sol
+----- WRITING SOLUTION WITH VALUE 39518 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/498596.sol
+----- WRITING SOLUTION WITH VALUE 39419 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/568605.sol
+----- WRITING SOLUTION WITH VALUE 39295 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/607636.sol
+----- WRITING SOLUTION WITH VALUE 39291 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/615163.sol
+----- WRITING SOLUTION WITH VALUE 39235 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/767482.sol
+It    500    302 | T(s) 1.34 | Feas 40 39235.00 39393.44 | Inf 46 38966.00 39224.17 | Div 0.55 0.45 | Feas 0.38 1.00 | Pen 47.33 0.38
+----- WRITING SOLUTION WITH VALUE 39208 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/1357158.sol
+----- WRITING SOLUTION WITH VALUE 39113 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/1371009.sol
+----- WRITING SOLUTION WITH VALUE 39111 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/1513524.sol
+----- WRITING SOLUTION WITH VALUE 39070 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/1822544.sol
+----- WRITING SOLUTION WITH VALUE 38991 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/2076098.sol
+It   1000    134 | T(s) 2.36 | Feas 36 38991.00 39168.56 | Inf 30 38944.70 39127.46 | Div 0.48 0.51 | Feas 0.16 1.00 | Pen 40.23 0.17
+----- WRITING SOLUTION WITH VALUE 38988 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/2645010.sol
+----- WRITING SOLUTION WITH VALUE 38923 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/2664678.sol
+----- WRITING SOLUTION WITH VALUE 38905 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/3120056.sol
+It   1500     91 | T(s) 3.30 | Feas 26 38905.00 39168.24 | Inf 27 38885.46 39095.57 | Div 0.52 0.52 | Feas 0.18 1.00 | Pen 40.23 0.10
+----- WRITING SOLUTION WITH VALUE 38883 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/3318015.sol
+----- WRITING SOLUTION WITH VALUE 38863 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/4071979.sol
+It   2000     68 | T(s) 4.20 | Feas 58 38863.00 38997.60 | Inf 40 38758.99 38946.21 | Div 0.37 0.42 | Feas 0.19 1.00 | Pen 34.20 0.10
+----- WRITING SOLUTION WITH VALUE 38826 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/4318992.sol
+----- WRITING SOLUTION WITH VALUE 38812 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/4721291.sol
+It   2500    206 | T(s) 5.15 | Feas 58 38812.00 38913.80 | Inf 39 38768.19 38928.41 | Div 0.31 0.40 | Feas 0.23 1.00 | Pen 41.04 0.10
+It   3000    706 | T(s) 5.96 | Feas 36 38812.00 38891.52 | Inf 25 38714.41 38923.48 | Div 0.29 0.43 | Feas 0.26 1.00 | Pen 34.88 0.10
+It   3500   1206 | T(s) 6.81 | Feas 60 38812.00 38870.72 | Inf 56 38736.29 38815.07 | Div 0.30 0.30 | Feas 0.24 1.00 | Pen 41.86 0.10
+----- WRITING SOLUTION WITH VALUE 38746 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/7056871.sol
+It   4000    358 | T(s) 7.72 | Feas 47 38746.00 38859.60 | Inf 33 38704.90 38769.07 | Div 0.31 0.28 | Feas 0.26 1.00 | Pen 35.58 0.10
+It   4500    858 | T(s) 8.59 | Feas 57 38746.00 38834.00 | Inf 30 38719.47 38810.06 | Div 0.28 0.30 | Feas 0.22 1.00 | Pen 42.69 0.10
+It   5000   1358 | T(s) 9.42 | Feas 63 38746.00 38815.28 | Inf 61 38723.74 38771.54 | Div 0.26 0.21 | Feas 0.25 1.00 | Pen 43.55 0.10
+It   5500   1858 | T(s) 10.26 | Feas 57 38746.00 38800.36 | Inf 41 38694.78 38764.20 | Div 0.26 0.26 | Feas 0.21 1.00 | Pen 37.76 0.10
+----- WRITING SOLUTION WITH VALUE 38745 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/10677225.sol
+----- WRITING SOLUTION WITH VALUE 38744 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/10804175.sol
+----- WRITING SOLUTION WITH VALUE 38737 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/10945908.sol
+It   6000     87 | T(s) 11.10 | Feas 26 38737.00 38829.80 | Inf 62 38702.41 38753.82 | Div 0.36 0.24 | Feas 0.15 1.00 | Pen 39.28 0.10
+----- WRITING SOLUTION WITH VALUE 38723 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/11679034.sol
+It   6500    137 | T(s) 11.91 | Feas 34 38723.00 38793.52 | Inf 44 38706.34 38765.73 | Div 0.28 0.27 | Feas 0.15 1.00 | Pen 40.07 0.10
+It   7000    637 | T(s) 12.69 | Feas 48 38723.00 38772.44 | Inf 65 38676.29 38714.82 | Div 0.24 0.22 | Feas 0.16 1.00 | Pen 34.06 0.10
+It   7500   1137 | T(s) 13.49 | Feas 57 38723.00 38750.44 | Inf 44 38679.69 38702.64 | Div 0.21 0.19 | Feas 0.22 1.00 | Pen 34.74 0.10
+----- WRITING SOLUTION WITH VALUE 38718 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol.snapshots/14190098.sol
+It   8000     78 | T(s) 14.34 | Feas 35 38718.00 38770.36 | Inf 35 38718.60 38738.50 | Div 0.25 0.22 | Feas 0.14 1.00 | Pen 42.52 0.10
+It   8500    578 | T(s) 15.17 | Feas 58 38718.00 38787.48 | Inf 62 38722.85 38771.13 | Div 0.26 0.26 | Feas 0.23 1.00 | Pen 43.37 0.10
+It   9000   1078 | T(s) 16.01 | Feas 37 38718.00 38787.40 | Inf 41 38694.01 38741.66 | Div 0.28 0.27 | Feas 0.19 1.00 | Pen 37.60 0.10
+It   9500   1578 | T(s) 16.88 | Feas 26 38718.00 38840.76 | Inf 26 38697.77 38781.75 | Div 0.35 0.32 | Feas 0.12 1.00 | Pen 38.35 0.10
+----- GENETIC ALGORITHM FINISHED, TIME SPENT: 17.0003
+----- WRITING SOLUTION WITH VALUE 38718 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n251-k28-seed11.sol

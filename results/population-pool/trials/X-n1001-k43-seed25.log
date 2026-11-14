@@ -1,0 +1,34 @@
+----- READING DATA SET: /mnt/d/NTUST/Metaheuristic/HGS-CVRP-1.0.0/Instances/CVRP/X-n1001-k43.vrp
+----- FLEET SIZE WAS NOT SPECIFIED: DEFAULT INITIALIZATION TO 59 VEHICLES
+----- INSTANCE LOADED WITH 1000 CLIENTS AND 59 VEHICLES
+----- BUILDING INITIAL POPULATION
+----- STARTING GENETIC ALGORITHM
+It      0      2 | T(s) 10.65 | Feas 60 76472.00 77179.16 | NO-INFEASIBLE | Div 0.61 -1.00 | Feas 1.00 1.00 | Pen 115.68 0.85
+It    500     81 | T(s) 32.68 | Feas 64 75533.00 75776.72 | Inf 8 75662.33 76184.90 | Div 0.49 0.51 | Feas 0.93 1.00 | Pen 51.33 0.38
+It   1000    187 | T(s) 53.67 | Feas 31 74987.00 75389.56 | Inf 52 74868.33 75312.89 | Div 0.53 0.48 | Feas 0.47 1.00 | Pen 22.78 0.17
+It   1500     26 | T(s) 73.43 | Feas 36 74706.00 74971.08 | Inf 58 74472.71 74687.97 | Div 0.49 0.46 | Feas 0.26 1.00 | Pen 16.78 0.10
+It   2000     33 | T(s) 93.15 | Feas 63 74224.00 74696.52 | Inf 57 74345.69 74620.63 | Div 0.41 0.46 | Feas 0.20 1.00 | Pen 20.14 0.10
+It   2500    207 | T(s) 112.81 | Feas 34 74209.00 74574.20 | Inf 37 74217.12 74458.24 | Div 0.44 0.45 | Feas 0.29 1.00 | Pen 17.12 0.10
+----- WRITING SOLUTION WITH VALUE 74209 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed25.sol.snapshots/0-0.sol
+----- WRITING SOLUTION WITH VALUE 74223 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed25.sol.snapshots/0-1.sol
+----- WRITING SOLUTION WITH VALUE 74274 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed25.sol.snapshots/0-4.sol
+It   3000    186 | T(s) 132.14 | Feas 58 74135.00 74467.32 | Inf 38 74152.64 74439.52 | Div 0.43 0.46 | Feas 0.13 1.00 | Pen 20.95 0.10
+It   3500    686 | T(s) 151.59 | Feas 58 74135.00 74385.28 | Inf 61 74067.84 74303.28 | Div 0.42 0.44 | Feas 0.28 1.00 | Pen 18.17 0.10
+----- WRITING SOLUTION WITH VALUE 74096 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed25.sol.snapshots/1-0.sol
+----- WRITING SOLUTION WITH VALUE 74135 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed25.sol.snapshots/1-1.sol
+----- WRITING SOLUTION WITH VALUE 74223 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed25.sol.snapshots/1-4.sol
+It   4000    234 | T(s) 170.75 | Feas 39 74096.00 74454.72 | Inf 56 74088.19 74268.69 | Div 0.47 0.43 | Feas 0.11 1.00 | Pen 22.24 0.10
+It   4500    734 | T(s) 189.47 | Feas 43 74096.00 74370.44 | Inf 61 73976.36 74246.89 | Div 0.46 0.46 | Feas 0.34 1.00 | Pen 19.28 0.10
+----- WRITING SOLUTION WITH VALUE 73975 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed25.sol.snapshots/2-0.sol
+----- WRITING SOLUTION WITH VALUE 73975 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed25.sol.snapshots/2-1.sol
+----- WRITING SOLUTION WITH VALUE 74138 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed25.sol.snapshots/2-4.sol
+It   5000    280 | T(s) 208.11 | Feas 54 73975.00 74228.20 | Inf 58 74004.90 74230.41 | Div 0.43 0.44 | Feas 0.24 1.00 | Pen 23.14 0.10
+----- WRITING SOLUTION WITH VALUE 73965 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed25.sol.snapshots/3-0.sol
+----- WRITING SOLUTION WITH VALUE 73975 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed25.sol.snapshots/3-1.sol
+----- WRITING SOLUTION WITH VALUE 74039 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed25.sol.snapshots/3-4.sol
+It   5500    129 | T(s) 226.67 | Feas 33 73965.00 74210.24 | Inf 39 73930.71 74125.60 | Div 0.44 0.45 | Feas 0.23 1.00 | Pen 20.06 0.10
+----- WRITING SOLUTION WITH VALUE 73952 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed25.sol.snapshots/4-0.sol
+----- WRITING SOLUTION WITH VALUE 73965 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed25.sol.snapshots/4-1.sol
+----- WRITING SOLUTION WITH VALUE 73988 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed25.sol.snapshots/4-4.sol
+----- GENETIC ALGORITHM FINISHED, TIME SPENT: 237.031
+----- WRITING SOLUTION WITH VALUE 73952 IN : /mnt/d/NTUST/Metaheuristic/results/population-pool/trials/X-n1001-k43-seed25.sol

@@ -1,0 +1,56 @@
+----- READING DATA SET: /mnt/d/NTUST/Metaheuristic/HGS-CVRP-1.0.0/Instances/CVRP/X-n101-k25.vrp
+----- FLEET SIZE WAS NOT SPECIFIED: DEFAULT INITIALIZATION TO 36 VEHICLES
+----- INSTANCE LOADED WITH 100 CLIENTS AND 36 VEHICLES
+----- BUILDING INITIAL POPULATION
+----- WRITING SOLUTION WITH VALUE 28791 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n101-k25-seed15.sol.snapshots/8278.sol
+----- WRITING SOLUTION WITH VALUE 28319 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n101-k25-seed15.sol.snapshots/10500.sol
+----- WRITING SOLUTION WITH VALUE 28234 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n101-k25-seed15.sol.snapshots/15022.sol
+----- WRITING SOLUTION WITH VALUE 28197 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n101-k25-seed15.sol.snapshots/53788.sol
+----- STARTING GENETIC ALGORITHM
+It      0      2 | T(s) 0.08 | Feas 37 28197.00 28460.12 | Inf 59 27750.06 28078.98 | Div 0.55 0.49 | Feas 0.01 1.00 | Pen 15.18 0.85
+----- WRITING SOLUTION WITH VALUE 28146 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n101-k25-seed15.sol.snapshots/97669.sol
+----- WRITING SOLUTION WITH VALUE 28047 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n101-k25-seed15.sol.snapshots/129564.sol
+----- WRITING SOLUTION WITH VALUE 27846 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n101-k25-seed15.sol.snapshots/171447.sol
+----- WRITING SOLUTION WITH VALUE 27797 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n101-k25-seed15.sol.snapshots/175735.sol
+----- WRITING SOLUTION WITH VALUE 27720 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n101-k25-seed15.sol.snapshots/220103.sol
+----- WRITING SOLUTION WITH VALUE 27691 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n101-k25-seed15.sol.snapshots/229782.sol
+----- WRITING SOLUTION WITH VALUE 27649 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n101-k25-seed15.sol.snapshots/257088.sol
+----- WRITING SOLUTION WITH VALUE 27610 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n101-k25-seed15.sol.snapshots/303779.sol
+It    500    111 | T(s) 0.37 | Feas 52 27610.00 27787.96 | Inf 43 27551.77 27673.41 | Div 0.35 0.33 | Feas 0.08 1.00 | Pen 37.77 0.38
+----- WRITING SOLUTION WITH VALUE 27595 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n101-k25-seed15.sol.snapshots/422468.sol
+It   1000    410 | T(s) 0.64 | Feas 25 27595.00 27711.84 | Inf 40 27577.33 27647.79 | Div 0.36 0.26 | Feas 0.14 1.00 | Pen 78.33 0.17
+----- WRITING SOLUTION WITH VALUE 27591 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n101-k25-seed15.sol.snapshots/760563.sol
+It   1500    275 | T(s) 0.88 | Feas 52 27591.00 27625.64 | Inf 38 27592.79 27655.23 | Div 0.20 0.27 | Feas 0.90 1.00 | Pen 97.79 0.10
+It   2000    775 | T(s) 1.13 | Feas 54 27591.00 27632.36 | Inf 54 27581.48 27651.28 | Div 0.22 0.27 | Feas 0.68 1.00 | Pen 86.48 0.10
+It   2500   1275 | T(s) 1.36 | Feas 40 27591.00 27640.00 | Inf 41 27602.97 27624.41 | Div 0.25 0.16 | Feas 0.14 1.00 | Pen 107.97 0.10
+It   3000   1775 | T(s) 1.57 | Feas 31 27591.00 27646.44 | Inf 34 27590.48 27644.64 | Div 0.28 0.25 | Feas 0.89 1.00 | Pen 95.48 0.10
+It   3500   2275 | T(s) 1.78 | Feas 50 27591.00 27613.08 | Inf 27 27579.44 27661.21 | Div 0.17 0.30 | Feas 0.76 1.00 | Pen 84.44 0.10
+It   4000   2775 | T(s) 2.01 | Feas 60 27591.00 27615.32 | Inf 61 27600.42 27626.74 | Div 0.18 0.18 | Feas 0.04 1.00 | Pen 105.42 0.10
+It   4500   3275 | T(s) 2.21 | Feas 57 27591.00 27619.80 | Inf 54 27588.22 27632.22 | Div 0.19 0.22 | Feas 0.80 1.00 | Pen 93.22 0.10
+It   5000   3775 | T(s) 2.40 | Feas 33 27591.00 27633.28 | Inf 33 27577.44 27645.12 | Div 0.25 0.26 | Feas 0.77 1.00 | Pen 82.44 0.10
+It   5500   4275 | T(s) 2.61 | Feas 63 27591.00 27611.52 | Inf 46 27597.93 27619.09 | Div 0.16 0.16 | Feas 0.15 1.00 | Pen 102.93 0.10
+It   6000   4775 | T(s) 2.81 | Feas 30 27591.00 27634.32 | Inf 41 27586.02 27642.46 | Div 0.26 0.27 | Feas 0.78 1.00 | Pen 91.02 0.10
+It   6500   5275 | T(s) 3.02 | Feas 43 27591.00 27613.00 | Inf 45 27608.64 27630.48 | Div 0.18 0.16 | Feas 0.13 1.00 | Pen 113.64 0.10
+It   7000   5775 | T(s) 3.23 | Feas 56 27591.00 27611.32 | Inf 36 27595.50 27629.94 | Div 0.15 0.21 | Feas 0.09 1.00 | Pen 100.50 0.10
+It   7500   6275 | T(s) 3.44 | Feas 59 27591.00 27602.40 | Inf 37 27583.87 27628.23 | Div 0.11 0.24 | Feas 0.79 1.00 | Pen 88.87 0.10
+It   8000   6775 | T(s) 3.65 | Feas 59 27591.00 27612.72 | Inf 55 27605.95 27628.67 | Div 0.17 0.16 | Feas 0.12 1.00 | Pen 110.95 0.10
+It   8500   7275 | T(s) 3.85 | Feas 42 27591.00 27612.84 | Inf 39 27593.12 27618.72 | Div 0.17 0.18 | Feas 0.07 1.00 | Pen 98.12 0.10
+It   9000   7775 | T(s) 4.06 | Feas 57 27591.00 27611.04 | Inf 37 27581.77 27628.05 | Div 0.15 0.24 | Feas 0.81 1.00 | Pen 86.77 0.10
+It   9500   8275 | T(s) 4.27 | Feas 34 27591.00 27621.76 | Inf 56 27603.33 27616.49 | Div 0.21 0.12 | Feas 0.10 1.00 | Pen 108.33 0.10
+It  10000   8775 | T(s) 4.44 | Feas 29 27591.00 27638.52 | Inf 64 27590.80 27618.52 | Div 0.26 0.18 | Feas 0.91 1.00 | Pen 95.80 0.10
+It  10500   9275 | T(s) 4.63 | Feas 41 27591.00 27617.96 | Inf 29 27579.72 27636.32 | Div 0.20 0.27 | Feas 0.72 1.00 | Pen 84.72 0.10
+It  11000   9775 | T(s) 4.81 | Feas 54 27591.00 27617.72 | Inf 59 27600.78 27616.14 | Div 0.19 0.14 | Feas 0.11 1.00 | Pen 105.78 0.10
+It  11500  10275 | T(s) 4.98 | Feas 62 27591.00 27614.72 | Inf 27 27588.54 27653.24 | Div 0.17 0.29 | Feas 0.83 1.00 | Pen 93.54 0.10
+It  12000  10775 | T(s) 5.16 | Feas 51 27591.00 27613.96 | Inf 56 27592.32 27623.20 | Div 0.18 0.19 | Feas 0.86 1.00 | Pen 97.32 0.10
+It  12500  11275 | T(s) 5.34 | Feas 32 27591.00 27620.80 | Inf 40 27596.25 27620.33 | Div 0.21 0.18 | Feas 0.06 1.00 | Pen 101.25 0.10
+It  13000  11775 | T(s) 5.52 | Feas 46 27591.00 27616.72 | Inf 53 27600.34 27616.38 | Div 0.19 0.14 | Feas 0.08 1.00 | Pen 105.34 0.10
+It  13500  12275 | T(s) 5.70 | Feas 42 27591.00 27614.32 | Inf 60 27588.16 27626.28 | Div 0.19 0.21 | Feas 0.74 1.00 | Pen 93.16 0.10
+It  14000  12775 | T(s) 5.88 | Feas 39 27591.00 27616.76 | Inf 38 27577.38 27644.10 | Div 0.19 0.29 | Feas 0.73 1.00 | Pen 82.38 0.10
+It  14500  13275 | T(s) 6.07 | Feas 27 27591.00 27638.16 | Inf 27 27597.86 27655.50 | Div 0.27 0.28 | Feas 0.08 1.00 | Pen 102.86 0.10
+It  15000  13775 | T(s) 6.25 | Feas 39 27591.00 27614.16 | Inf 63 27585.96 27607.88 | Div 0.18 0.17 | Feas 0.81 1.00 | Pen 90.96 0.10
+It  15500  14275 | T(s) 6.43 | Feas 28 27591.00 27630.20 | Inf 33 27608.56 27637.20 | Div 0.25 0.20 | Feas 0.14 1.00 | Pen 113.56 0.10
+It  16000  14775 | T(s) 6.60 | Feas 46 27591.00 27612.36 | Inf 53 27595.43 27607.63 | Div 0.17 0.12 | Feas 0.06 1.00 | Pen 100.43 0.10
+It  16500  15275 | T(s) 6.78 | Feas 45 27591.00 27612.72 | Inf 27 27583.81 27659.81 | Div 0.17 0.30 | Feas 0.70 1.00 | Pen 88.81 0.10
+It  17000  15775 | T(s) 6.97 | Feas 54 27591.00 27613.36 | Inf 63 27605.88 27621.24 | Div 0.17 0.13 | Feas 0.08 1.00 | Pen 110.88 0.10
+----- GENETIC ALGORITHM FINISHED, TIME SPENT: 7
+----- WRITING SOLUTION WITH VALUE 27591 IN : /mnt/d/NTUST/Metaheuristic/results/snapshot-pilot/trials/X-n101-k25-seed15.sol
